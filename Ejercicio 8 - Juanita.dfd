@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+10
+Valor,Edad
+7
+0
+1
+7
+Edad>60
+6
+2
+3
+Des
+10
+Valor*0.05
+5
+Total
+9
+Valor-Des
+4
+1
+37
+"El total de tu Compra es;  " , Total
+13
+6
+2
+3
+Des
+10
+Valor*0.15
+5
+Total
+9
+Valor-Des
+4
+1
+37
+"El total de tu Compra es;  " , Total
+13
+1
